@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nodejh/deploy_static_blog/issues"
   },
-  "homepage": "https://github.com/nodejh/deploy_static_blog#readme"
+  "homepage": "https://github.com/nodejh/deploy_static_blog#readme",
+  "dependencies": {
+    "gh": "^1.12.8"
+  }
 }
